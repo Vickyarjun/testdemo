@@ -1,0 +1,13 @@
+Browser JS(console) v Nodejs;
+
+
+->  In the browser, most of the time what you are doing is interacting with the DOM, or other Web Platform APIs like Cookies,
+    those do not exist in Node, of course. You don’t have the document, window and all the other objects that are provided by the browser.
+
+->  And in the browser, we don’t have all the nice APIs that Node.js provides through its modules, like the filesystem access functionality.
+
+->  Another big difference is that in Node.js you control the environment. Unless you are building an open source application that anyone can deploy anywhere, you know which version of Node you will run the application on.
+
+->  Since JavaScript moves so fast, but browsers can be a bit slow and users a bit slow to upgrade, sometimes on the web, you are stuck to use older JavaScript / ECMAScript releases.
+
+->  You can use Babel to transform your code to be ES5-compatible before shipping it to the browser, but in Node, you won’t need that.

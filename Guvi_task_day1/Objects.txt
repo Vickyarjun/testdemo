@@ -1,0 +1,16 @@
+ Objects:
+
+              Objects are the representation of real-world entities in any language representing things by defining its properties along with their values.
+                 In Javascript, objects may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs.
+
+The syntax of creating object using object literal is given below:
+object={key,value};
+
+Internal representation in Javascript:
+
+    Objects, in JavaScript, is it’s most important data-type and forms the building blocks for modern JavaScript. 
+
+These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive data-types all store a single value each (depending on their types).An object, is a reference data type. 
+
+Variables that are assigned a reference value are given a reference or a pointer to that value.
+

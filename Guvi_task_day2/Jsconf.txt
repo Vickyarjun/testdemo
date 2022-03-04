@@ -1,0 +1,10 @@
+
+-> When you get html and how it comes amd prints in screen & it has three stage 1.High level view 2.In Depth view 3.performance insights.
+
+-> Browser has Binding and rendering methodes, binding relates to network and windows.
+
+-> Rendering relates Parsing,layout,paint & parsing HTML is rules of parsing which are Tokensier,Parse tree,DOM tree
+
+-> CSS parsing represention of styles,styles sheet,rules,selector,decoder.Render relates DOM and CSS  combine of object module.
+
+-> And some of topic calculating visual properties and recurssion tree and DOM tree and Render tree.

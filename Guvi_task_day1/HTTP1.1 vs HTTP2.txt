@@ -1,0 +1,10 @@
+Difference between HTTP1.1 vs HTTP2;
+
+-> HTTP2 is much faster and more reliable than HTTP1. 
+-> HTTP1 loads a single request for every TCP connection.
+-> HTTP2 avoids network delay by using multiplexing. 
+-> HTTP is a network delay sensitive protocol in the sense that if there is less network delay, then the page loads faster. 
+-> HTTP/2 does not change much in terms of caching. 
+-> Provides faster delivery of web pages and reduces web traffic as compared to HTTP/1.0. for every TCP connection there could be multiple requests and responses, and pipelining. 
+-> Authentication used in HTTP1.1 is an improvement over HTTP1.0.
+-> HTTPS uses SSL/TLS for secure encrypted communication.
